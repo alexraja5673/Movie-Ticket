@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Movie-Ticket/static/css/main.80dd5ace.css",
+    "main.js": "/Movie-Ticket/static/js/main.22da56d8.js",
+    "static/media/logo.jpg": "/Movie-Ticket/static/media/logo.b074b90a7cf98a9150a7.jpg",
+    "index.html": "/Movie-Ticket/index.html",
+    "main.80dd5ace.css.map": "/Movie-Ticket/static/css/main.80dd5ace.css.map",
+    "main.22da56d8.js.map": "/Movie-Ticket/static/js/main.22da56d8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.80dd5ace.css",
+    "static/js/main.22da56d8.js"
+  ]
+}
